@@ -1,2 +1,2 @@
 # My-c-programs
-C programming 
+my C practice programming 
