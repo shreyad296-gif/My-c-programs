@@ -1,4 +1,4 @@
-# My-c-programs project ---------------------
+# My-c-programs project (1st project)---------------------
 
 #include <stdio.h>
 
